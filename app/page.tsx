@@ -201,6 +201,7 @@ export default function Home() {
       }
     });
   };
+  
 
   // Bölüm değiştirme fonksiyonu
   const toggleSection = (section: "experience" | "education") => {

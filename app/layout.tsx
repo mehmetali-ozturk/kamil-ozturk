@@ -1,9 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-
 export const metadata: Metadata = {
-  title: "Kamil Öztürk",
+  title: "Kamil OztUrk",
   description: ".",
 };
 
